@@ -15,8 +15,8 @@ src
     -->admin
       -->adminaddreg
       -->adminview
-   -->logout
-   -->dashboard
+    -->logout
+    -->dashboard
    
  -->services
   -->flight-->ng g s flight
