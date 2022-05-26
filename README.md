@@ -3,9 +3,13 @@ angular-->frontend
 
 ng new filename
 src
+
 ->app
+
   -->create components->ng g c componentname
+  
     -->login
+    
     -->register
     -->home
     -->admin
